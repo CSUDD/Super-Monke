@@ -1,7 +1,7 @@
 # Super-Monke
 A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 
-##To install:
+## To install:
 1) Go to the game in your steam library
 2) Right click it on the left hand side of your library
 3) Click "Properties..."
@@ -12,7 +12,7 @@ A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 8) Launch the game like normal and enjoy!
 9) Done, please don't use on public lobbies
 
-##To reverse:
+## To reverse:
 1) Go to the game in your steam library
 2) Right click it on the left hand side of your library
 3) Click "Properties..."
@@ -21,9 +21,9 @@ A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 6) Done
 
 ## To use
-###Flying
+### Flying
 To fly, hold the "B" button on your right touch controller
-###Power Jump
+### Power Jump
 To power jump hold the trigger on your right touch controller and play as normal
-###Anti-Gravity
+### Anti-Gravity
 To toggle your gravity, tap "A" on your right touch controller (Might take a couple taps, it's not perfect yet)
