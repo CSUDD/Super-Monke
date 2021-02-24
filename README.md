@@ -1,5 +1,5 @@
 # Super-Monke
-A cheat/mod for the amazing game Gorilla Tag
+A mod for the amazing game Gorilla Tag
 ### Please note: trying to connect to a public server will make you join the server "SUPERMONKE"
 
 ## To install:
