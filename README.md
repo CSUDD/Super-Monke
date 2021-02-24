@@ -24,10 +24,15 @@ A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 ## To use
 ### Flying
 To fly, hold the "B" button on your right touch controller
+
 ![](flying.gif)
+
 ### Power Jump
 To power jump hold the trigger on your right touch controller and play as normal
-![](pwrjump.gif)
+
+![](pwrjmp.gif)
+
 ### Anti-Gravity
 To toggle your gravity, tap "A" on your right touch controller (Might take a couple taps, it's not perfect yet)
+
 ![](antigrav.gif)
