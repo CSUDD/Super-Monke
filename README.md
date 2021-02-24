@@ -1,5 +1,6 @@
 # Super-Monke
-A cheat for the amazing game Gorilla Tag, please only use in private lobbies
+A cheat/mod for the amazing game Gorilla Tag
+### Please note: trying to connect to a public server will make you join the server "SUPERMONKE"
 
 ## To install:
 0) Download by clicking "Code" and clicking "Download ZIP", once it is downloaded, right click on the file and click "Extract to Super-Monke-main\" and open the new folder
@@ -11,7 +12,7 @@ A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 6) Enter "Gorilla Tag_Data"
 7) Replace the "Managed" folder with this one
 8) Launch the game like normal and enjoy!
-9) Done, please don't use on public lobbies (trying to do so will exit the game)
+9) Done
 
 ## To reverse:
 1) Go to the game in your steam library
