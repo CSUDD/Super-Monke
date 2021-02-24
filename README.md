@@ -2,6 +2,7 @@
 A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 
 ## To install:
+0) Download by clicking "Code" and clicking "Download ZIP", once it is downloaded, right click on the file and click "Extract to Super-Monke-main\" and open the new folder
 1) Go to the game in your steam library
 2) Right click it on the left hand side of your library
 3) Click "Properties..."
@@ -23,7 +24,10 @@ A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 ## To use
 ### Flying
 To fly, hold the "B" button on your right touch controller
+![](flying.gif)
 ### Power Jump
 To power jump hold the trigger on your right touch controller and play as normal
+![](pwrjump.gif)
 ### Anti-Gravity
 To toggle your gravity, tap "A" on your right touch controller (Might take a couple taps, it's not perfect yet)
+![](antigrav.gif)
