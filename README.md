@@ -11,7 +11,7 @@ A cheat for the amazing game Gorilla Tag, please only use in private lobbies
 6) Enter "Gorilla Tag_Data"
 7) Replace the "Managed" folder with this one
 8) Launch the game like normal and enjoy!
-9) Done, please don't use on public lobbies
+9) Done, please don't use on public lobbies (trying to do so will exit the game)
 
 ## To reverse:
 1) Go to the game in your steam library
