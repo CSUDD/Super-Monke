@@ -1,3 +1,4 @@
+# OUTDATED - New Super Monkey Mod Coming Soon!
 # Super-Monke
 A mod for the amazing game Gorilla Tag
 ### Please note: trying to connect to a public server will make you join the server "SUPERMONKE"
