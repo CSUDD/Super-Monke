@@ -4,9 +4,9 @@ A mod for the amazing game Gorilla Tag
 
 ## To install:
 ### If you have BepInEx
-Simply download the dll [Click here to download](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/download/v1.0.0/SuperMonkeV2.dll), then move "SuperMonkeV2.dll" into your BepInEx/plugins folder in your game directory
+Simply download the dll [Click here to download](https://github.com/jeydevv/Super-Monke/releases/download/1.0.0/SuperMonkeV2.dll), then move "SuperMonkeV2.dll" into your BepInEx/plugins folder in your game directory
 ### If you don't have BepInEx (This method involves installing BepInEx)
-Simply download the ZIP file [Click here to download](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/download/v1.0.0/BepInEx64.with.Super.Monke.V2.zip), then move the ZIP file into your game folder (can get to it by going to Steam, right-clicking on Gorilla Tag in your library, click properties, go to Local Files and click Browse), then right click the ZIP file and extract there - there should now be a folder called "BepInEx"
+Simply download the ZIP file [Click here to download](https://github.com/jeydevv/Super-Monke/releases/download/1.0.0/BepInEx64.with.Super.Monke.V2.zip), then move the ZIP file into your game folder (can get to it by going to Steam, right-clicking on Gorilla Tag in your library, click properties, go to Local Files and click Browse), then right click the ZIP file and extract there - there should now be a folder called "BepInEx"
 
 ## To use
 ### Flying
