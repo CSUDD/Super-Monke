@@ -23,3 +23,5 @@ To power jump hold the trigger on your primary touch controller and play as norm
 To toggle your gravity, tap "A" on your primary touch controller
 
 ![](antigrav.gif)
+
+***[BepInEx Release Used](https://github.com/BepInEx/BepInEx/releases)***
