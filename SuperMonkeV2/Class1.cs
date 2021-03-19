@@ -31,7 +31,7 @@ namespace SuperMonkeV2
         static bool flying = false;
         static void Prefix(GorillaLocomotion.Player __instance)
         {
-            if (!PhotonNetworkController.instance.isPrivate) return;
+            if (PhotonNetwork.CurrentRoom.IsVisible) return;
 
             bool triggerDown = false;
             bool primaryDown = false;

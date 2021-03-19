@@ -91,3 +91,14 @@ C:\Users\joshu\Desktop\SuperMonkeV2\obj\Debug\SuperMonkeV2.csproj.CoreCompileInp
 C:\Users\joshu\Desktop\SuperMonkeV2\obj\Debug\SuperMonkeV2.csproj.CopyComplete
 C:\Users\joshu\Desktop\SuperMonkeV2\obj\Debug\SuperMonkeV2.dll
 C:\Users\joshu\Desktop\SuperMonkeV2\obj\Debug\SuperMonkeV2.pdb
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\bin\Debug\SuperMonkeV2.dll
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\bin\Debug\SuperMonkeV2.pdb
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\bin\Debug\MeshBakerCore.dll
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\bin\Debug\Oculus.VR.dll
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\bin\Debug\Oculus.Platform.dll
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\bin\Debug\PlayFab.dll
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\obj\Debug\SuperMonkeV2.csprojAssemblyReference.cache
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\obj\Debug\SuperMonkeV2.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\obj\Debug\SuperMonkeV2.csproj.CopyComplete
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\obj\Debug\SuperMonkeV2.dll
+C:\Users\joshu\Documents\Programming\43223423\SuperMonkeV2\obj\Debug\SuperMonkeV2.pdb
