@@ -4,7 +4,7 @@ A mod for the amazing game Gorilla Tag
 
 ## To install:
 ### Using BepInEx
-Simply download the dll [Click here to download](https://github.com/jeydevv/Super-Monke/releases/download/1.0.0/SuperMonkeV2.dll), then move "SuperMonkeV2.dll" into your BepInEx/plugins folder in your game directory
+Simply download the dll [Click here to download](https://github.com/jeydevv/Super-Monke/releases/download/1.1.0/SuperMonkeV2.dll), then move "SuperMonkeV2.dll" into your BepInEx/plugins folder in your game directory
 
 ## To use
 ### Flying
